@@ -16,7 +16,7 @@
 [![HTML](https://img.shields.io/badge/HTML-DD4B27?style=for-the-badge&logo=HTML5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-2246CF?style=for-the-badge&logo=CSS3&logoColor=white)]()
 [![ReactJS](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
-[![NodeJS](https://img.shields.io/badge/Node-026e00?style=for-the-badge&logo=Node&logoColor=white)](https://nodejs.org/en/)
+[![NodeJS](https://img.shields.io/badge/Node-026e00?style=for-the-badge&logo=Nodejs&logoColor=white)](https://nodejs.org/en/)
 [![ExpressJS](https://img.shields.io/badge/Express-555?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
 
 
