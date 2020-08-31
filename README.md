@@ -10,7 +10,12 @@
 [![GitHub Soren Holst Hansen](https://img.shields.io/github/followers/SorenHolstHansen?label=follow&style=social)](https://github.com/SorenHolstHansen)
 -->
 
+<h3>Languages and Tools</h3>
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-ec008c?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
+[![JavaScript](https://img.shields.io/badge/HTML-ec008c?style=flat-square&logo=HTML5&logoColor=white)]()
+
+
 <!--
 **SorenHolstHansen/SorenHolstHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
