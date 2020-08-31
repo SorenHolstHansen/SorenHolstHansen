@@ -12,8 +12,8 @@
 
 <h3>Languages and Tools</h3>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ec008c?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/HTML-DD4B27?style=flat-square&logo=HTML5&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-ec008c?style=for-the-badge&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML-DD4B27?style=for-the-badge&logo=HTML5&logoColor=white)]()
 
 
 <!--
