@@ -5,8 +5,8 @@
   Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a>
 </em></p>
 
-[![Linkedin: sørenholsthansen](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](www.linkedin.com/in/søren-holst-hansen)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/SorenHolstHansen)
+[![Linkedin: sørenholsthansen](https://img.shields.io/badge/-sørenholsthansen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sørenholsthansen/)](www.linkedin.com/in/søren-holst-hansen)
+[![GitHub Soren Holst Hansen](https://img.shields.io/github/followers/SorenHolstHansen?label=follow&style=social)](https://github.com/SorenHolstHansen)
 
 
 <!--
