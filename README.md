@@ -12,12 +12,12 @@
 
 <h3>Languages and Tools</h3>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ec008c?style=for-the-badge&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/HTML-DD4B27?style=for-the-badge&logo=HTML5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-2246CF?style=for-the-badge&logo=CSS3&logoColor=white)]()
-[![ReactJS](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
-[![NodeJS](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
-[![ExpressJS](https://img.shields.io/badge/Express-555?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]()
+[![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
+[![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nodejs.org/en/)
 
 
 
