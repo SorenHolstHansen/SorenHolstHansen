@@ -14,7 +14,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ec008c?style=for-the-badge&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-DD4B27?style=for-the-badge&logo=HTML5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-2246CF?style=for-the-badge&logo=CSS&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-2246CF?style=for-the-badge&logo=CSS&logoColor=white)]()
 
 
 
