@@ -13,7 +13,7 @@
 <h3>Languages and Tools</h3>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ec008c?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![JavaScript](https://img.shields.io/badge/HTML-ec008c?style=flat-square&logo=HTML5&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-DD4B27?style=flat-square&logo=HTML5&logoColor=white)]()
 
 
 <!--
