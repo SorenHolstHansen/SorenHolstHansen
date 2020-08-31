@@ -6,7 +6,9 @@
 </em></p>
 
 [![Linkedin: sørenholsthansen](https://img.shields.io/badge/-Søren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/søren-holst-hansen/)](https://www.linkedin.com/in/søren-holst-hansen/)
+<!--
 [![GitHub Soren Holst Hansen](https://img.shields.io/github/followers/SorenHolstHansen?label=follow&style=social)](https://github.com/SorenHolstHansen)
+-->
 
 
 
