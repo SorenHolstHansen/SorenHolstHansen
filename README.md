@@ -1,15 +1,14 @@
-<h2> Hi there, I'm Soren (Or Norse)</h2>
+<h2> Hi there, I'm Søren</h2>
 <p><em>
   Mathematician from <a href="https://www.ku.dk/english/">University of Copenhagen</a>
   </br>
   Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a>
 </em></p>
 
-[![Linkedin: sørenholsthansen](https://img.shields.io/badge/-Søren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/søren-holst-hansen/)](https://www.linkedin.com/in/søren-holst-hansen/)
+[![Linkedin: sørenholsthansen](https://img.shields.io/badge/-Søren_Holst_Hansen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/søren-holst-hansen/)](https://www.linkedin.com/in/søren-holst-hansen/)
 <!--
 [![GitHub Soren Holst Hansen](https://img.shields.io/github/followers/SorenHolstHansen?label=follow&style=social)](https://github.com/SorenHolstHansen)
 -->
-
 
 
 <!--
