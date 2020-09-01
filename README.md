@@ -36,8 +36,7 @@
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LaTeX&message=LaTeX&label=&color=008080&labelColor=404040" alt="LaTeX">
 
-<br>
-<br>
+<h2>Stats</h2>
 
 <p align="center">
   <a href="https://github.com/SorenHolstHansen">
