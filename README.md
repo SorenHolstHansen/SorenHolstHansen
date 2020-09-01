@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python&logoColor=3776AB" alt="Python">
 <img src="https://img.shields.io/badge/MondoDB-333?style=for-the-badge&logo=MongoDB&logoColor=47A248" alt="MongoDB">
 <img src="https://img.shields.io/badge/LaTeX-333?style=for-the-badge&logo=LaTeX&logoColor=008080" alt="LaTeX">
+<img src="https://img.shields.io/badge/Heroku-333?style=for-the-badge&logo=Heroku&logoColor=430098" alt="Heroku">
 
 </div>
 <!--
