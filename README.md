@@ -11,20 +11,22 @@
 
 <h3>Languages and Tools</h3>
 
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/MondoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=NPM&message=NPM&label=&color=CB3837&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=HTML&label=&color=E34F26&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&label=&color=F05032&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=Sass&message=Sass&label=&color=CC6699&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&message=JavaScript&label=&color=F7DF1E&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=MongoDB&message=MongoDB&label=&color=47A248&labelColor=000000">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000" alt="NodeJS">
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="ReactJS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white" alt="Heroku">
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white" alt="NextJS">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=LaTeX&message=LaTeX&label=&color=008080&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=React&message=React&label=&color=61DAFB&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&message=Docker&label=&color=2496ED&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=Python&label=&color=3776AB&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&message=CSS&label=&color=1572B6&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=Heroku&message=Heroku&label=&color=430098&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=Next.js&message=Next.js&label=&color=000&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=LOGO&message=NAME&label=&color=339933&labelColor=000000">
+<img src="" alt="https://img.shields.io/static/v1?style=for-the-badge&logo=LOGO&message=NAME&label=&color=339933&labelColor=000000">
 
 
 </div>
