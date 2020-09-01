@@ -1,7 +1,8 @@
 <h2> Hi there, I'm Søren</h2>
 <div align="center">
-  <p><em>Mathematician from <a href="https://www.ku.dk/english/">University of Copenhagen</a></em> | <em>Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a></em></p>
-  </div>
+  
+<p><em>Mathematician from <a href="https://www.ku.dk/english/">University of Copenhagen</a></em> | <em>Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a></em></p>
+
 
 [![Linkedin: sørenholsthansen](https://img.shields.io/badge/-Søren_Holst_Hansen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/søren-holst-hansen/)](https://www.linkedin.com/in/søren-holst-hansen/)
 <!--
@@ -20,6 +21,7 @@
 <img src="https://img.shields.io/badge/MondoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
 
+</div>
 <!--
 **SorenHolstHansen/SorenHolstHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
