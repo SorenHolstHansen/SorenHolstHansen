@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=404040" alt="NodeJS">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=React&message=React&label=&color=61DAFB&labelColor=404040" alt="React">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Next.js&message=Next.js&label=&color=000&labelColor=404040" alt="NextJS">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MongoDB&message=MongoDB&label=&color=47A248&labelColor=404040" alt="MongoDB">
 <br>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=Python&label=&color=3776AB&labelColor=404040" alt="Python">
@@ -32,6 +31,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&label=&color=F05032&labelColor=404040" alt="Git">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Heroku&message=Heroku&label=&color=430098&labelColor=404040" alt="Heroku">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&message=Docker&label=&color=2496ED&labelColor=404040" alt="Docker">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MongoDB&message=MongoDB&label=&color=47A248&labelColor=404040" alt="MongoDB">
 <br>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LaTeX&message=LaTeX&label=&color=008080&labelColor=404040" alt="LaTeX">
