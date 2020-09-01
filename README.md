@@ -11,16 +11,16 @@
 
 <h3>Languages and Tools</h3>
 
-<img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
-<img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=React&logoColor=61DAFB" alt="ReactJS">
-<img src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=Node.js&logoColor=339933" alt="NodeJS">
-<img src="https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=Next.js&logoColor=000" alt="NextJS">
-<img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/MondoDB-333?style=for-the-badge&logo=MongoDB&logoColor=47A248" alt="MongoDB">
-<img src="https://img.shields.io/badge/LaTeX-333?style=for-the-badge&logo=LaTeX&logoColor=008080" alt="LaTeX">
-<img src="https://img.shields.io/badge/Heroku-333?style=for-the-badge&logo=Heroku&logoColor=430098" alt="Heroku">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="ReactJS">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJS">
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white" alt="NextJS">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/MondoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white" alt="Heroku">
 
 </div>
 <!--
