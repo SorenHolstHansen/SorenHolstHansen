@@ -9,7 +9,7 @@
 [![GitHub Soren Holst Hansen](https://img.shields.io/github/followers/SorenHolstHansen?label=follow&style=social)](https://github.com/SorenHolstHansen)
 -->
 
-<h3>Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=HTML&label=&color=E34F26&labelColor=404040" alt="HTML">
