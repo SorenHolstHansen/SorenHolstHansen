@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hi there, I'm Søren</h1>
-[![HitCount](http://hits.dwyl.com/SorenHolstHansen/{project}.svg)](http://hits.dwyl.com/SorenHolstHansen/{project})
+
 <p><em>Mathematician from <a href="https://www.ku.dk/english/">University of Copenhagen</a></em> | <em>Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a></em></p>
 
 
