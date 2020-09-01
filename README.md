@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Heroku&message=Heroku&label=&color=430098&labelColor=404040" alt="Heroku">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Next.js&message=Next.js&label=&color=000&labelColor=404040" alt="NextJS">
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://github.com/SorenHolstHansen">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SorenHolstHansen&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true" />
