@@ -26,7 +26,14 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Heroku&message=Heroku&label=&color=430098&labelColor=000000" alt="Heroku">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Next.js&message=Next.js&label=&color=000&labelColor=000000" alt="NextJS">
 
-
+<p align="center">
+<a href="https://github.com/SorenHolstHansen">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SorenHolstHansen&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/SorenHolstHansen">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorenHolstHansen&layout=compact&theme=great-gatsby" />
+</a>
+</p>
 </div>
 <!--
 **SorenHolstHansen/SorenHolstHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
