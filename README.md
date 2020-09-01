@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hi there, I'm Søren</h1>
 
-<p><em>Mathematician from <a href="https://www.ku.dk/english/">University of Copenhagen</a></em> | <em>Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a></em></p>
+<p><em>Masters degree in Maths from <a href="https://www.ku.dk/english/">University of Copenhagen</a></em> | <em>Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a></em></p>
 
 
 [![Linkedin: sørenholsthansen](https://img.shields.io/badge/-Søren_Holst_Hansen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/søren-holst-hansen/)](https://www.linkedin.com/in/søren-holst-hansen/)
