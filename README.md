@@ -51,7 +51,7 @@
 <h2>Projects</h2>
 <ul>
   <li><a href="https://ll-hu.gg/"><strong>LL-HU.GG</strong></a>: LL-HU.GG is a database of information about the mobile game LEGO legacy: heroes unboxed. It is no longer maintained.</li>
-  <li><a href="https://github.com/SorenHolstHansen/Minimal-Surfaces-and-Geometric-Measure-Theory"><strong>Minimal Surfaces and Geometric Measure Theory</strong></a>: My masters thesis in theoretical mathematics at the University of Copenhagen.</li>
+  <li><a href="https://github.com/SorenHolstHansen/Minimal-Surfaces-and-Geometric-Measure-Theory"><strong>My Masters Thesis</strong></a>: My masters thesis in theoretical mathematics at the University of Copenhagen, with the title "Minimal Surfaces and Geometric Measure Theory"</li>
   <li><a href="https://github.com/SorenHolstHansen/matematikmemes"><strong>Matematikmemes top 50</strong></a>: A top 50 list of the best memes from the matematik memes (math memes) facebook page which I created. No longer maintained.</li>
   <li><a href="https://github.com/SorenHolstHansen/firefoxCSS"><strong>FirefoxCSS</strong></a>: My take on a custom firefox style. These involve only slight changes that improves my day to day use of firefox.</li>
   <li><a href="https://github.com/SorenHolstHansen/startpage"><strong>Start Page</strong></a>: My startpage.</li>
