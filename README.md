@@ -49,9 +49,11 @@
 </div>
 
 <h2>Projects</h2>
-<ul>
-  <li><a href="https://github.com/SorenHolstHansen/Minimal-Surfaces-and-Geometric-Measure-Theory"><strong>My Masters Thesis</strong></a></li>
-</ul>
+- [**LL-HU.GG**](https://ll-hu.gg/): LL-HU.GG is a database of information about the mobile game LEGO legacy: heroes unboxed. It is no longer maintained.
+- [**Minimal Surfaces and Geometric Measure Theory**](https://github.com/SorenHolstHansen/Minimal-Surfaces-and-Geometric-Measure-Theory): My masters thesis in theoretical mathematics at the University of Copenhagen.
+- [**mMatematikmemes top 50**](https://github.com/SorenHolstHansen/matematikmemes): A top 50 list of the best memes from the matematik memes (math memes) facebook page which I created. No longer maintained.
+- [**FirefoxCSS**](https://github.com/SorenHolstHansen/firefoxCSS): My take on a custom firefox style. These involve only slight changes that improves my day to day use of firefox.
+- [**Start Page**](https://github.com/SorenHolstHansen/startpage): My firefox startpage.
 
 <!--
 **SorenHolstHansen/SorenHolstHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
