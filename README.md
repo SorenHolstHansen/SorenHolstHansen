@@ -47,6 +47,8 @@
   </a>
 </p>
 </div>
+
+<iframe src="https://www.worldcommunitygrid.org/getDynamicImage.do?memberName=SorenHansen&mnOn=false&stat=1&imageNum=1&rankOn=false&projectsOn=false&special=true&link=1&memberId=1083028" frameborder="0" name="di" scrolling="no" width="405px" height="145px"></iframe>
 <!--
 **SorenHolstHansen/SorenHolstHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
