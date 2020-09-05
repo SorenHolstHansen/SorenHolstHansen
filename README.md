@@ -48,6 +48,10 @@
 </p>
 </div>
 
+<h2>Projects</h2>
+<ul>
+  <li><a href="https://github.com/SorenHolstHansen/Minimal-Surfaces-and-Geometric-Measure-Theory"><strong>My Masters Thesis</strong></a></li>
+</ul>
 
 <!--
 **SorenHolstHansen/SorenHolstHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
