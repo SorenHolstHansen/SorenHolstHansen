@@ -49,7 +49,8 @@
 </div>
 
 <h2>Projects</h2>
-- [LL-HU.GG](https://ll-hu.gg/): LL-HU.GG is a database of information about the mobile game LEGO legacy: heroes unboxed. It is no longer maintained.
+- [LL-HU.GG](https://ll-hu.gg/)
+LL-HU.GG is a database of information about the mobile game LEGO legacy: heroes unboxed. It is no longer maintained.
 - [Minimal Surfaces and Geometric Measure Theory](https://github.com/SorenHolstHansen/Minimal-Surfaces-and-Geometric-Measure-Theory): My masters thesis in theoretical mathematics at the University of Copenhagen.
 - [Matematikmemes top 50](https://github.com/SorenHolstHansen/matematikmemes): A top 50 list of the best memes from the matematik memes (math memes) facebook page which I created. No longer maintained.
 - [FirefoxCSS](https://github.com/SorenHolstHansen/firefoxCSS): My take on a custom firefox style. These involve only slight changes that improves my day to day use of firefox.
