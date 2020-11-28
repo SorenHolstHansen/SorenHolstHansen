@@ -31,8 +31,6 @@
 
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=Python&label=&color=3776AB&labelColor=404040" alt="Python">
-<br>
-
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LaTeX&message=LaTeX&label=&color=008080&labelColor=404040" alt="LaTeX">
 
 <h2>Stats</h2>
