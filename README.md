@@ -22,16 +22,15 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Expo&message=Expo&label=&color=000020&labelColor=404040" alt="Expo">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Next.js&message=Next.js&label=&color=000&labelColor=404040" alt="NextJS">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=GraphQL&message=GraphQL&label=&color=E10098&labelColor=404040" alt="GraphQL">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Apollo GraphQL&message=Apollo GraphQL&label=&color=311C87&labelColor=404040" alt="Apollo GraphQL">
-
-<br>
-
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=Python&label=&color=3776AB&labelColor=404040" alt="Python">
 <br>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&label=&color=F05032&labelColor=404040" alt="Git">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&message=Docker&label=&color=2496ED&labelColor=404040" alt="Docker">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=MongoDB&message=MongoDB&label=&color=47A248&labelColor=404040" alt="MongoDB">
+<br>
+
+
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=Python&label=&color=3776AB&labelColor=404040" alt="Python">
 <br>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=LaTeX&message=LaTeX&label=&color=008080&labelColor=404040" alt="LaTeX">
