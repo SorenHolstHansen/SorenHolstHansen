@@ -19,6 +19,7 @@
 <br>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=React&message=React&label=&color=61DAFB&labelColor=404040" alt="React">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Svelte&message=Svelte&label=&color=FF3E00&labelColor=404040" alt="Svelte">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Expo&message=Expo&label=&color=000020&labelColor=404040" alt="Expo">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Next.js&message=Next.js&label=&color=000&labelColor=404040" alt="NextJS">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=GraphQL&message=GraphQL&label=&color=E10098&labelColor=404040" alt="GraphQL">
